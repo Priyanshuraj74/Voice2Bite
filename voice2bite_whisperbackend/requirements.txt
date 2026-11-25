@@ -1,0 +1,23 @@
+numba
+numpy
+torch
+tqdm
+more-itertools
+tiktoken
+triton>=2.0.0;platform_machine=="x86_64" and sys_platform=="linux"
+flask
+flask_cors
+openai-whisper
+requests
+python-dotenv
+pybreaker
+redis
+psycopg2-binary
+qdrant-client
+sentence-transformers
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-requests
+opentelemetry-exporter-otlp
+gunicorn
